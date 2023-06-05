@@ -9,6 +9,7 @@ The repository is organized by interfaces, with each one residing in its own ded
 For each recreated interface, I will provide a link to the live version, a printscreen of my version, as well as the original image for comparison. These links will be updated here as and when new interfaces are added.
 
 ## Interface 17
-Printscreen of my version: ![Alt text](interface_17/media/interface_17.png)
-Original image: 
+ ### My version: 
+![Alt text](interface_17/media/interface_17.png)
+ ### Original image: 
 ![Alt text](interface_17/media/interface.17.png)
